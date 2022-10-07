@@ -1,18 +1,20 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Ko-ATOMIC
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+Korean Commonsense Knowledge Grpah, Ko-ATOMIC (HCLT2022~)
 
-## Demo
+## GitHub Link
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+Download on Github Pages: [https://github.com/jooinjang/Ko-ATOMIC](https://github.com/jooinjang/Ko-ATOMIC)
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+[![KoATOMIC](https://img.shields.io/badge/featured%20on-KoATOMIC-lightgrey.svg)](https://github.com/jooinjang/Ko-ATOMIC)
 
-## Why Jekyll with GitBook
+## What is Ko-ATOMIC?
+
+Ko-ATOMIC은 [ATOMIC2020][1]을 기반으로 하는 상식 기반의 한국어 지식 그래프입니다. 
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
@@ -164,7 +166,7 @@ This work is open sourced under the Apache License, Version 2.0.
 
 Copyright 2019 Tao He.
 
-[1]: https://pages.github.com
+[1]: https://github.com/allenai/comet-atomic-2020
 [2]: https://pages.github.com/themes
 [3]: https://github.com/sighingnow/jekyll-gitbook/fork
 [4]: https://github.com/allejo/jekyll-toc
