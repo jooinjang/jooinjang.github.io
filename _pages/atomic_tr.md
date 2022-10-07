@@ -18,7 +18,7 @@ ATOMIC_trans는 기존의 [ATOMIC2020][1]을 한국어로 번역하여 구축한
 [ATOMIC_trans][3](HCLT 버전)는 csv 형식으로 구성되어 있습니다.
 
 아래의 그림은 ATOMIC2020을 번역한 ATOMIC_trans의 일부분입니다.
-![example](atomic_trans_sample.png)
+![example](./atomic_trans_sample.png)
 
 
 [1]: https://allenai.org/data/atomic-2020

@@ -19,7 +19,7 @@ GPT-3의 입력 프롬프트는 Event와 Inference의 관계를 나타내는 Rel
 
 아래의 그림은 Ko-ATOMIC(HCLT 버전)에서 표현하는 GPT-3에 사용된 입력 프롬프트의 예시입니다.
 
-![example](img_ko_en_prompt.png)
+![example](./img_ko_en_prompt.png)
 
 ## Structure
 [KommonGenKG][3](HCLT 버전)는 jsonl 형식으로 아래와 같은 구조로 구성되어 있습니다.
